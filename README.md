@@ -11,9 +11,8 @@ link do canal https://www.youtube.com/@rotadaprogramacao
 
 </p>
 
-<p align="center">
-  <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.terra.com.br%2Fgameon%2Fmonster-hunter-world-e-mais-jogos-saem-do-game-pass-em-30-de-junho%2C56b191aa487503bc465b25f41b7cff96xldt9kfq.html&psig=AOvVaw3V0LzoKnqfuFsCtM2n1gxr&ust=1669514865882000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjN1NXhyvsCFQAAAAAdAAAAABAF">
-</p>
+![887](https://user-images.githubusercontent.com/82427278/204068470-e91221b4-b78d-45b0-8923-e477d2c60a92.jpg)
+
 
 ## 🚀 Tecnologias
 
