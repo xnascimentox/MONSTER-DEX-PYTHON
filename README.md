@@ -30,4 +30,4 @@ Construção de uma pokedex ao estilo do game Monster hunter word
 
 ## :memo: Créditos
 
-Esse projeto está sob a licença de https://www.linkedin.com/in/joao-futi-muanda-16b980175/
+Esse projeto está sob os créditos de https://www.linkedin.com/in/joao-futi-muanda-16b980175/
